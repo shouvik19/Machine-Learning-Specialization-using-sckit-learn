@@ -1,2 +1,7 @@
 # Machine-Learning-Specialization-using-sckit-learn
-Course by coursera for machine learning 
+
+```javascript
+function hello(name) {
+  console.log(name);
+}
+```
