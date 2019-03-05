@@ -1,7 +1,3 @@
 # Machine-Learning-Specialization-using-sckit-learn
 
-```javascript
-function hello(name) {
-  console.log(name);
-}
-```
+*Purpose of this task is to demonstrate how to utlilize sckit-learn librarby to perform the same tasks instead of using Graphlab  
